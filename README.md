@@ -1,1 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionae1)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align: center;">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionae1&stats_format=bytes)
+</div>
