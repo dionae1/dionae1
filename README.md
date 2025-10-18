@@ -1,5 +1,1 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,django,js,ts,react,tailwind,html,css,linux,cpp,git" />
-  </a>
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dionae1)](https://github.com/anuraghazra/github-readme-stats)
