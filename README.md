@@ -1,9 +1,8 @@
 <h3 align="center">Must keep going.</h3>
 
 <div align="center">
-  <br/><br/>
   <p>
-    Working on <b>Open Source</b><br/>
+    Working on Open Source<br/>
     Researching about <b>Software Development and IA</b><br/>
   </p>
 </div>
