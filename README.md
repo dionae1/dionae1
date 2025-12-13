@@ -1,4 +1,4 @@
-### ☝️ Dev
+### ☝️ Guilherme Medeiros Gomes
 <div align="">
   <p>
     Working on Open Source
@@ -10,8 +10,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dionae1&show_icons=true&theme=dracula&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=dionae1&theme=dracula&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionae1&layout=compact&langs_count=7&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=dionae1&theme=dracula&hide_border=true&short_numbers=true" />
 </div>
 
 <br>
