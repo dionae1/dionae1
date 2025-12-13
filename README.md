@@ -9,8 +9,13 @@
 
 ---
 
-### 🛠️ Stack
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dionae1&show_icons=true&theme=dracula&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=dionae1&theme=dracula&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+</div>
+
 <br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -30,11 +35,4 @@
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dionae1&theme=iceberg&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
 <p align="center">Must keep going.</p>
