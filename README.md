@@ -1,20 +1,10 @@
-### ☝️ Guilherme Medeiros Gomes
+### Guilherme Medeiros Gomes
 <div align="">
   <p>
-    Working on Open Source
-    <br>
-    <b>Software Development and IA</b><br/>
+    <b>Web Development and IA</b><br/>
   </p>
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dionae1&layout=compact&langs_count=7&theme=dracula" />
-  <img src="https://streak-stats.demolab.com/?user=dionae1&theme=dracula&hide_border=true&short_numbers=true" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
